@@ -85,7 +85,7 @@ I'm a first-year ECE student passionate about learning how **electronics and pro
 
 ## 🤝 Let's Connect
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+💼 **LinkedIn:** file:///C:/Users/sarot/Downloads/Thanmaya%20Santhoshkumar%20_%20LinkedIn.html
 
 🐙 **GitHub:** [@thanmayasanthoshkumar-ops](https://github.com/thanmayasanthoshkumar-ops)
 
